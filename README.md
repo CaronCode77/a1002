@@ -1,5 +1,5 @@
 <p align="center" style="font-size:50px; font-weight:bold;">
-# AIDI Machine Learning Programming - Research Project
+<strong>AIDI Machine Learning Programming - Research Project</strong>
 </p>
 
 <p align="center" style="font-size:24px; font-weight:bold;">
