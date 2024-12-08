@@ -27,11 +27,17 @@ In "stacked" LSTM models multiple LSTM layers are stacked on top of each other a
 
 A stacked-LSTM model was created from the research paper python script and deployed against the relevant dataset.  Assessing the model accuracy and precision we used the standard MAE and MSE calculations which were as follows:   
 
-Mean Absolute Error: 4.685022011912624
+Mean Absolute Error: 4.685022011912624   
 Mean Squared Error: 44.915101133343875 
 
 ## Bidirectional-LSTM Models
-bla bla
+Unlike standard LSTM, Bidirectional LSTM processes sequences in forward and backward directions better capturing swings in time-series data.  Capturing these sequences allows for better predictions on for example, RSI indicating an upcoming trend reversal.  Ultimately though, bidirectional is very useful when the data has cyclical or seasonal patterns that need backward context for better predictions.  
+
+A bidirectional-LSTM model was created from the research paper python script and deployed against the relevant dataset.  Assessing the model accuracy and precision we used the standard MAE and MSE calculations which were as follows:   
+
+Mean Absolute Error: 3.953184636197867
+Mean Squared Error: 30.931766687269413
+
 
 
 
