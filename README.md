@@ -19,11 +19,16 @@ Convolutional Neural Network with Long Short-Term Memory combines a CNN for feat
 
 The replicated research paper python script was selected and deployed against the relevant dataset.  Assessing the model accuracy and precision we used the standard Mean Absolute Error and Mean Squared Error calculations which were as follows:   
 
-Mean Absolute Error: 7.920070029978962
-Mean Squared Error: 147.60807218374518
+Mean Absolute Error: 7.920070029978962   
+Mean Squared Error: 147.60807218374518   
 
 ## Stacked-LSTM Models
-bla bla
+In "stacked" LSTM models multiple LSTM layers are stacked on top of each other allowing the model to learn more complex features hierarchically.  With multiple layers it can learn both simple and complex temporal dependencies in sequential data like stock prices. Stacked models are capable of handling multivariant data features such as OHLC and indicators like RSI.  Lastly, deeper layers can capture interactions in data such as price reversals and trends.  
+
+A stacked-LSTM model was created from the research paper python script and deployed against the relevant dataset.  Assessing the model accuracy and precision we used the standard MAE and MSE calculations which were as follows:   
+
+Mean Absolute Error: 4.685022011912624
+Mean Squared Error: 44.915101133343875 
 
 ## Bidirectional-LSTM Models
 bla bla
