@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="font-size:24px; font-weight:bold;">
-<strong>Predicting Stock Market Time-Series Data:</strong>
+<strong>[Predicting Stock Market Time-Series Data]</strong>
 </p>
 <p align="center" style="font-size:20px;">
 <strong>CNN-LSTM Neural Network Model</strong><br>
