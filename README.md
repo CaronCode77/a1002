@@ -48,11 +48,16 @@ Unlike standard LSTM, Bidirectional LSTM processes sequences in forward and back
 A bidirectional-LSTM model was created from the research paper python script and deployed against the relevant dataset.  Assessing the model accuracy and precision we used the standard MAE and MSE calculations which were as follows:   
 
 Mean Absolute Error: 3.953184636197867   
-Mean Squared Error: 30.931766687269413    \
+Mean Squared Error: 30.931766687269413    
 
 ## Conclusion   
+This project set out to enhance machine learning model for Predicting Stock Market Time-Series Data building upon the CNN-LSTM hybrid deep learning architecture presented in the referenced research paper. Through  replication and analysis and development and evaluation of LSTM variants  significant improvements in prediction accuracy have been achieved.   
 
+The CNN-LSTM model demonstrated the utility of combining feature extraction with sequence modeling. However its performance metrics with a MAE of 7.92 and a MSE of 147.61 left room for improvement.   
 
+Extending this baseline, the Stacked-LSTM model introduced hierarchical learning capturing both simple and complex temporal dependencies and resulted in a significant reduction of error rates with an MAE of 4.69 and an MSE of 44.92.  This highlights the models ability to handle multivariate features and uncover intricate patterns in stock price movements.   
+
+The Bidirectional-LSTM model further enhanced prediction accuracy by incorporating both forward and backward sequence processing. This approach enabled the model to better capture patterns, particularly detecting price reversals and trend changes. With an MAE of 3.95 and an MSE of 30.93 the Bidirectional-LSTM emerged as the most accurate model tested in this project.   \
 
 
 
