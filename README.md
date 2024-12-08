@@ -10,7 +10,7 @@
 vs <br>
 <strong>Stacked-LSTM NN Model</strong><br>
 vs <br>
-<strong>BiDirectional-LSTM NN Model</strong>
+<strong>Bidirectional-LSTM NN Model</strong>
 </p>
 
 ## Overview
