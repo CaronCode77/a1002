@@ -1,4 +1,5 @@
-# Predicting Stock Market Time-Series Data Using CNN-LSTM Neural Network Model
+# AIDI Machine Learning Programming - Research Project
+# Predicting Stock Market Time-Series Data: CNN-LSTM Neural Network Model vs Stacked-LSTM NN Model vs BiDirectional-LSTM NN Model
 
 ## Overview
 
