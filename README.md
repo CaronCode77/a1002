@@ -1,10 +1,7 @@
-<p align="center" style="font-size:30px; font-weight:bold;">
-# AIDI Machine Learning Programming - Research Project
+<p align="center" style="font-size:40px; font-weight:bold;">
+# AIDI Machine Learning Programming - Research Project [Predicting Stock Market Time-Series Data]
 </p>
 
-<p align="center" style="font-size:24px;">
-<strong>Predicting Stock Market Time-Series Data:</strong>
-</p>
 <p align="center" style="font-size:20px;">
 <strong>CNN-LSTM Neural Network Model</strong><br>
 vs <br>
