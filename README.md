@@ -7,15 +7,20 @@ This school project researches stock market time series data price prediction, w
 Our task in this project is to replicate the referenced code in article and create an upgraded version of LSTM machine learning model that will increase the model's performance.  Given the vast amount of options available to us and reduced time to test and train deep learning models we have narrowed down our possible enhancements to a Stacked-LSTM model and a Bidirectional-LSTM model.  
 
 ## Research Paper on Time Series Forecasting:
-https://arxiv.org/pdf/2305.14378
+https://arxiv.org/pdf/2305.14378   
 Published: May 21st, 2023
 
 ## Relevant DataSet: 
-https://github.com/Circle-1/Stock-X/blob/main/data/NIFTY/ITC.csv
+https://github.com/Circle-1/Stock-X/blob/main/data/NIFTY/ITC.csv   
 Source: NIFTY (National Stock Exchange Fifty, an index representing the top 50 companies listed on the National Stock Exchange (NSE) of India)
 
-## CNN-LSTM Models
-bla bla
+## CNN-LSTM Model
+Convolutional Neural Network with Long Short-Term Memory combines a CNN for feature extraction and a LSTM network for sequential data modeling. The CNN layers extract spatial features, flattened or reshaped features are then passed to LSTM layers to model time-dependent patterns.    
+
+The replicated research paper python script was selected and deployed against the relevant dataset.  Assessing the model accuracy and precision we used the standard Mean Absolute Error and Mean Squared Error calculations which were as follows:   
+
+Mean Absolute Error: 7.920070029978962
+Mean Squared Error: 147.60807218374518
 
 ## Stacked-LSTM Models
 bla bla
