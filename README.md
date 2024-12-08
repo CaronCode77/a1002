@@ -1,12 +1,16 @@
-<p align="center">
-# AIDI Machine Learning Programming - Research Project<br>
-Predicting Stock Market Time-Series Data:<br> 
-CNN-LSTM Neural Network Model<br> 
-vs <br>
-Stacked-LSTM NN Model<br> 
-vs <br>
-BiDirectional-LSTM NN Model<br>
+<p align="center" style="font-size:30px; font-weight:bold;">
+# AIDI Machine Learning Programming - Research Project
+</p>
 
+<p align="center" style="font-size:24px;">
+<strong>Predicting Stock Market Time-Series Data:</strong>
+</p>
+<p align="center" style="font-size:20px;">
+<strong>CNN-LSTM Neural Network Model</strong><br>
+vs <br>
+<strong>Stacked-LSTM NN Model</strong><br>
+vs <br>
+<strong>BiDirectional-LSTM NN Model</strong>
 </p>
 
 ## Overview
